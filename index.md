@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# 这是一个个人响应式的网站
+* 我的个人网站主页是nyhxiaoning.github.io *
 
-You can use the [editor on GitHub](https://github.com/nyhxiaoning/myministation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 项目技术描述
+- 对于响应式的设计进行了一些实战性的应用，增加了个人的时间轴效果展示，同时对于图片的处理和图片的过渡效果利用css3进行了优化
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 编辑器 
+- 使用submit webstorm vscode atom
 
-### Markdown
+## 项目功能
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nyhxiaoning/myministation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 可以进行经史子集的查看，可以进行一些音乐的赏析，可以进行时间轴中国历史朝代的查看，是一个程序员的小爱好的集散地
